@@ -1,0 +1,2 @@
+C:\Users\Study PC\Documents\GitHub\PlayerDeMusica\playerDeMusica\Debug\playerDeMusica.exe
+C:\Users\Study PC\Documents\GitHub\PlayerDeMusica\playerDeMusica\Debug\playerDeMusica.pdb
